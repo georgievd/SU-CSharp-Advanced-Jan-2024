@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlogger", "Vlogger\Vlogger.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wardrobe", "Wardrobe\Wardrobe.csproj", "{56E131F3-F391-4025-968A-2ED6D6E3D7C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking", "Ranking\Ranking.csproj", "{64C71EA3-D100-4C77-951C-B386B1266ABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{56E131F3-F391-4025-968A-2ED6D6E3D7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56E131F3-F391-4025-968A-2ED6D6E3D7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56E131F3-F391-4025-968A-2ED6D6E3D7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C71EA3-D100-4C77-951C-B386B1266ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C71EA3-D100-4C77-951C-B386B1266ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C71EA3-D100-4C77-951C-B386B1266ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C71EA3-D100-4C77-951C-B386B1266ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
